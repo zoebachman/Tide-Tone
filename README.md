@@ -1,2 +1,4 @@
-# Tide-Tone
-Code from HackRedHook2016 Tide-Tone Project
+# TideTone
+Code from HackRedHook2016 TideTone Project
+
+In collaboration with Sam Sadtler and Nikeisha Nelson
